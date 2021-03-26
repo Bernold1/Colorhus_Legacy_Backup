@@ -1,0 +1,5 @@
+.mobileV div[data-id='9FAF8543-5D7F-4399-9BBF-01242EEBD92B'] > div:first-child {border-right-width: 1px !important;
+}
+.mobileV div[data-id='E02D22C8-7FD8-4FDE-8AF5-1ED848FEECD6'] > div:first-child {border-right-width: 1px !important;
+}@media (max-width: 650px) { body { min-width: 'initial' } }
+            @media (min-width: 651px) { body { min-width: 944px } }

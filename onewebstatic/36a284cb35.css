@@ -1,0 +1,7 @@
+.template { visibility: hidden }
+body { overflow-x: hidden }
+                        .bodyBackground {
+                            
+background-image:none;
+background-color:rgba(255,255,255,1);
+                        }
